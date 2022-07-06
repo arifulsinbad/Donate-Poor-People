@@ -19,6 +19,10 @@ body{
 .h1-1{
     font-size: 60px;
 }
+.gray0{
+    color: gray;
+
+}
 .a-1{
     background-image: linear-gradient(orange,tomato);
     padding: 15px 40px;
@@ -137,6 +141,7 @@ body{
     margin: 35px 20%;
     padding-bottom: 6%;
     padding-left: 40px;
+    
    
     
 
@@ -147,7 +152,7 @@ body{
     margin-left: 8%;
     margin-right: 8%;
     padding:30px;
-    border-radius: 80px;
+    border-radius: 30px;
     background-image: linear-gradient(orange, tomato);
   
     
@@ -158,7 +163,8 @@ body{
     color: white; 
     font-size: 25px;
     text-align: center;
-    padding-left: 4%;
+    padding-left: 6%;
+    padding-top: 5%;
     
     
    
