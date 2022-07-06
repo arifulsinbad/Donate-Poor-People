@@ -1,0 +1,134 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 0%;
+}
+.text-1{
+    text-align: center;
+    background-image: url(images/Untitled-2.jpg);
+    padding: 50px;
+    background-repeat: no-repeat;
+
+
+    
+}
+.div-1{
+    padding-bottom:100px ;
+    color: rgb(209, 209, 209);
+}
+.h1-1{
+    font-size: 60px;
+}
+.a-1{
+    background-image: linear-gradient(orange,tomato);
+    padding: 15px 40px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    border-radius: 30px;
+    
+
+    
+
+}
+.section-2{
+    text-align: center;
+    margin-top: 3%;
+}
+.div-parent{
+    display: flex;
+    margin-left: 15%;
+    padding: 40px;
+    
+    
+}
+.div-3{
+    margin-left: 3%;
+    margin-right: 3%;
+    box-shadow: 10px 10px 40px rgb(202, 199, 199);
+    padding-top: 25px;
+    border-radius: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: antiquewhite;
+    padding-bottom: 20px;
+}
+#tk-200{
+    color: red;
+    background-color: rgb(240, 181, 181);
+    border: 4px solid rgb(247, 66, 66);
+
+}
+.input{
+    border: none;
+
+    font-size: 20px;
+    border-bottom: 1px solid gray;
+    margin-bottom: 40px; 
+    
+    padding: 10px 300px;
+
+    
+    
+    
+
+}
+.botton{
+    background-image: linear-gradient(orange,  tomato);
+    padding: 20px 40px;
+    border-radius: 35px;
+    font-size: 50px;
+    color: white;
+     margin-bottom: 5%;
+
+}
+.section-3{
+    text-align: center;
+}
+.parent-4{
+    display: flex;
+    margin-top: 5%;
+    margin-bottom: 9%;
+    text-align: left;
+   
+    
+}
+.image-2{
+    width: 60px;
+    padding-left: 10%;
+     font-size: 100px;
+     padding-top: 20px;
+}
+.div-4{
+    box-shadow: 5px 5px 40px rgb(167, 167, 167);
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 0%;
+  
+
+   
+   
+    
+}
+.h1-4{
+    font-size: 30px;
+    padding-left: 5%;
+    color: gray;
+}
+.span{
+    padding-left: 5%;
+    color: gray;
+}
+#color{
+    background-color: rgb(231, 79, 23);
+}
+#ok{
+    background-color: rgb(255, 216, 216);
+    color: gray;
+}
+#ok-1{
+    background-color: rgb(255, 231, 200);
+    color: gray;
+}
+
+
+
+
